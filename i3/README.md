@@ -1,4 +1,5 @@
 
+```
 ~/.config/i3$ tree .
 
 .
@@ -11,10 +12,10 @@
 ├── lockscreen.jpg
 ├── lockscreen.png
 └── volume
+```
 
 
-
-
+```
 FILES
    ~/.i3/config (or ~/.config/i3/config)
        When starting, i3 looks for configuration files in the following order:
@@ -28,3 +29,4 @@ FILES
         4. /etc/xdg/i3/config (or $XDG_CONFIG_DIRS/i3/config if set)
 
        You can specify a custom path using the -c option.
+```
